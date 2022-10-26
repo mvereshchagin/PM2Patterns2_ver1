@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc", "Calc\Calc.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{631D699F-6838-48D5-BA8C-FFF147013557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{243F1A97-34EE-4E12-8DAC-61596C239AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{243F1A97-34EE-4E12-8DAC-61596C239AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Iterators\Iterators.csproj", "{EE3BE81A-251F-4681-9420-165E6F57BAC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterators", "Iterators\Iterators.csproj", "{EE3BE81A-251F-4681-9420-165E6F57BAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Props", "Props\Props.csproj", "{49269E71-67C4-4799-8E4F-81D4940F27A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EE3BE81A-251F-4681-9420-165E6F57BAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE3BE81A-251F-4681-9420-165E6F57BAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE3BE81A-251F-4681-9420-165E6F57BAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49269E71-67C4-4799-8E4F-81D4940F27A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49269E71-67C4-4799-8E4F-81D4940F27A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49269E71-67C4-4799-8E4F-81D4940F27A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49269E71-67C4-4799-8E4F-81D4940F27A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
